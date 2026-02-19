@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Verify user authentication in To Do",
+    "navigation": "Web Application",
+    "task": "Implement user authentication",
+    "column": "To Do",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "id": 2,
+    "name": "Verify navigation bug in To Do",
+    "navigation": "Web Application",
+    "task": "Fix navigation bug",
+    "column": "To Do",
+    "tags": ["Bug"]
+  },
+  {
+    "id": 3,
+    "name": "Verify design system updates in In Progress",
+    "navigation": "Web Application",
+    "task": "Design system updates",
+    "column": "In Progress",
+    "tags": ["Design"]
+  },
+  {
+    "id": 4,
+    "name": "Verify push notification system in To Do",
+    "navigation": "Mobile Application",
+    "task": "Push notification system",
+    "column": "To Do",
+    "tags": ["Feature"]
+  },
+  {
+    "id": 5,
+    "name": "Verify offline mode in In Progress",
+    "navigation": "Mobile Application",
+    "task": "Offline mode",
+    "column": "In Progress",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "id": 6,
+    "name": "Verify app icon design in Done",
+    "navigation": "Mobile Application",
+    "task": "App icon design",
+    "column": "Done",
+    "tags": ["Design"]
+  }
+]
